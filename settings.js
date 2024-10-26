@@ -10,8 +10,8 @@ global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
+global.ownernumber = '94702722766'  //creator number
+global.ownername = 'white sachin' //owner name
 global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
 
 //sticker details
@@ -23,13 +23,13 @@ global.themeemoji = '💀'
 global.wm = "Toxxic Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
+global.link = 'https://chat.whatsapp.com/BdxXl16otm93ynPycnvbDp'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
